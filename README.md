@@ -262,5 +262,3 @@ Open311 · UN SDG 11 · OpenStreetMap / Nominatim / Overpass · SIH25031
 ## License
 
 MIT
-#   c i v i c - p u l s e  
- 
