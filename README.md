@@ -16,7 +16,7 @@ photographic proof of closure that the AI itself verifies.
 
 | | What it is | How to open |
 |---|---|---|
-| **Live demo (GitHub Pages)** | The whole platform running **in your browser** — AI, routing, SLA clock, evidence checks and contractor matching all execute locally. No server needed. | **https://snischayprasad.github.io/civicpulse/** |
+| **Live demo (GitHub Pages)** | The whole platform running **in your browser** — AI, routing, SLA clock, evidence checks and contractor matching all execute locally. No server needed. | **https://abhijith007-47.github.io/Civic_Pulse_1/** |
 | **Full stack (Node + Express + Socket.IO)** | The real backend: JWT auth, file uploads, server-side CivicVision, live Socket.IO alerts, REST API. | `npm install && npm start` → http://localhost:4000 — or open the repo in **GitHub Codespaces** (port 4000 auto-forwards, publicly) |
 
 GitHub Pages can only serve static files, so the Pages build swaps the Express server for an
@@ -27,8 +27,8 @@ source files** in both builds, and the vision maths is identical — only the de
 ### Run locally in VS Code
 
 ```bash
-git clone https://github.com/SNischayPrasad/civicpulse.git
-cd civicpulse
+git clone https://github.com/ABHIJITH007-47/Civic_Pulse_1.git
+cd Civic_Pulse_1
 npm install
 npm start
 ```
@@ -263,4 +263,4 @@ Open311 · UN SDG 11 · OpenStreetMap / Nominatim / Overpass · SIH25031
 
 MIT
 #   c i v i c - p u l s e  
- 
+ 
